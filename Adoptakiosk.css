@@ -187,7 +187,8 @@ width: 300;
 
 }
 
-.bigcontainer {
-  margin-right: auto;
-  margin-left: auto;
+#backgroundani {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
