@@ -182,19 +182,20 @@ width: 300;
 }
 
 #backgroundimage {
-	max-width: 1000px;
+	width: 100%;
 	text-align: center;
 /*  max-width: 100%;*/
 /*  min-height: 100%;*/
 
 }
 
-/*#backgroundani {
+#backgroundani {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
-}*/
+    max-width: 100%;
+    top: 0;
+}
 
 #contentimg {
     display: block;
