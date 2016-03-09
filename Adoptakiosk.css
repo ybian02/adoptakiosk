@@ -17,9 +17,9 @@
 }
 
 a {
+  font-family: "cooper-black-std",sans-serif;
   text-decoration:none;
   color: #ffffff; /*white*/
-  font-family: font-family: 'Vollkorn', serif;
   font-weight: 700;
 }
 
