@@ -21,7 +21,7 @@ a {
   font-family: "cooper-black-std",sans-serif;
   text-decoration:none;
   color: #ffffff; /*white*/
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 li.first {
